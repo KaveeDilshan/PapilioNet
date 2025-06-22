@@ -1,0 +1,22 @@
+2025-01-22 10:48:18,478 ERROR: Error loading model: File not found: filepath=butterfly_model.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-01-22 10:48:18,499 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-22 10:48:18,499 INFO: [33mPress CTRL+C to quit[0m
+2025-01-22 10:48:18,509 INFO:  * Restarting with stat
+2025-01-22 10:48:22,438 ERROR: Error loading model: File not found: filepath=butterfly_model.keras. Please ensure the file is an accessible `.keras` zip file.
+2025-01-22 10:48:22,443 WARNING:  * Debugger is active!
+2025-01-22 10:48:22,443 INFO:  * Debugger PIN: 361-249-970
+2025-01-22 10:53:38,255 ERROR: Error processing file Danaus_plexippus_MHNT_ventre.jpg: name 'model' is not defined
+2025-01-22 10:53:38,257 INFO: 127.0.0.1 - - [22/Jan/2025 10:53:38] "POST /predict HTTP/1.1" 200 -
+2025-01-22 10:53:42,742 ERROR: Error processing file Danaus_plexippus_MHNT_ventre.jpg: name 'model' is not defined
+2025-01-22 10:53:42,742 INFO: 127.0.0.1 - - [22/Jan/2025 10:53:42] "POST /predict HTTP/1.1" 200 -
+2025-01-22 10:54:00,657 ERROR: Error processing file Danaus_plexippus_MHNT_ventre.jpg: name 'model' is not defined
+2025-01-22 10:54:00,657 INFO: 127.0.0.1 - - [22/Jan/2025 10:54:00] "POST /predict HTTP/1.1" 200 -
+2025-01-22 10:54:00,822 ERROR: Error processing file Danaus_plexippus_MHNT_ventre.jpg: name 'model' is not defined
+2025-01-22 10:54:00,822 INFO: 127.0.0.1 - - [22/Jan/2025 10:54:00] "POST /predict HTTP/1.1" 200 -
+2025-01-22 10:54:01,293 ERROR: Error processing file Danaus_plexippus_MHNT_ventre.jpg: name 'model' is not defined
+2025-01-22 10:54:01,293 INFO: 127.0.0.1 - - [22/Jan/2025 10:54:01] "POST /predict HTTP/1.1" 200 -
+2025-01-22 10:54:04,436 ERROR: Error processing file Danaus_plexippus_MHNT_ventre.jpg: name 'model' is not defined
+2025-01-22 10:54:04,437 INFO: 127.0.0.1 - - [22/Jan/2025 10:54:04] "POST /predict HTTP/1.1" 200 -
+2025-01-22 10:54:10,648 ERROR: Error processing file Danaus_plexippus_MHNT_ventre.jpg: name 'model' is not defined
+2025-01-22 10:54:10,648 INFO: 127.0.0.1 - - [22/Jan/2025 10:54:10] "POST /predict HTTP/1.1" 200 -
